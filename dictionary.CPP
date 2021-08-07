@@ -1,4 +1,5 @@
 #include"Trie.h"
+#include"LFU.h"
 Dictionary::Dictionary()
 {
 	root=new TrieNode();
