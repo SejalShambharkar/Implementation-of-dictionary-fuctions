@@ -1,3 +1,12 @@
+#include<iostream>
+#include<string>
+#include<stdlib.h>
+#include<vector>
+#include<fstream>
+#include<unistd.h>
+#include<conio.h>
+#define ALPHABETS 26
+using namespace std;
 class LRUCache
 {
 private:
